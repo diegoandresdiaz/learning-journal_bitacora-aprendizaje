@@ -3,20 +3,20 @@
 ## Español
 
 **Objetivo del proyecto:**  
-Documentar mi aprendizaje (y compratirlo), desde cero hasta mi graduación, como tecnólogo en desarrollo de software y aplicaciones, eso incluye errores, incluye notas propias, incluye frustraciones, incluye mi viaje personal entre líneas de código. Utilizo toda la documentación posible, disponible en línea y en el Politécnico, además de la orientación de IA (con el objetivo de aprender a integrarla). Aprendo (de manera autodidacta) el uso de Herramientas como Cursor, y mi principal parámetro es: **"No suministrarme ninguna línea de código"**, ya que realmente deseo aprender haciendo.
+Documentar mi aprendizaje (y compratirlo), desde cero hasta mi graduación, de tecnólogo en desarrollo de software y aplicaciones, incluye errores, notas propias, frustraciones, incluye mi viaje personal entre líneas de código. Utilizo toda la documentación posible, disponible en línea y en el Politécnico, orientación de IA (con el objetivo de aprender a integrarla). Aprendo (de manera autodidacta) el uso de Herramientas como Cursor, y mi principal parámetro es: **"No suministrarme ninguna línea de código"**, ya que realmente deseo aprender haciendo.
 
 ---
 
 ## English
 
 **Project objective:**  
-Documenting my learning (and sharing it), from scratch to graduation, as a software and application development technologist. This includes bugs, notes, frustrations, and my personal journey through lines of code. I use all available documentation, both online and at the Polytechnic, in addition to AI guidance (with the goal of learning how to integrate it). I teach myself (self-taught) how to use tools like Cursor, and my main parameter is: **"Don't give me any lines of code,"** as I truly want to learn by doing.
+Documenting my learning (and sharing it), from scratch to graduation, as a software and application development technologist. This includes bugs, personal notes, frustrations, and my personal journey through lines of code. I use all available documentation, both online and at the Polytechnic, and AI guidance (with the goal of learning how to integrate it). I teach myself (self-taught) how to use tools like Cursor, and my main parameter is: **"Don't give me any lines of code,"** as I truly want to learn by doing.
 
 ---
 
-## ¿Qué incluye este proyecto? / What does this project include?
+## ¿Qué encuentro en este proyecto? / What does this project include?
 
-- Registro diario de avances, pruebas, errores y soluciones / Daily log of progress, tests, errors, and solutions.
+- Registro de avances, pruebas, errores y soluciones / log of progress, tests, errors, and solutions.
 - Pruebas con Bootstrap y componentes visuales / Experiments with Bootstrap and visual components.
 - Comentarios internos explicando decisiones y recursos consultados / Internal comments explaining decisions and consulted resources.
 - Enlaces a ejemplos y recursos útiles / Links to examples and useful resources.
@@ -43,5 +43,5 @@ Documenting my learning (and sharing it), from scratch to graduation, as a softw
 
 ---
 
-**Proyecto realizado por Diego Andrés Díaz. Si eres estudiante, ¡te invito a crear tu propio diario de aprendizaje y compartirlo como parte de tu portafolio!  
-Project by Diego Andrés Díaz. If you're a student, I invite you to create your own learning journal and share it as part of your portfolio!**
+**Proyecto realizado por Diego Andrés Díaz.!  
+Project by Diego Andrés Díaz. 
